@@ -1,7 +1,7 @@
 # Team Profile Generator
 
 ## Description
-This is a Node.js command-line based application for generating basic team profile for a corporate organization.  This application will take in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. 
+This is a Node.js command-line based application for generating basic team profile for a  organization.  The application will collect information about employees.  
 
 ## Installation
 To install this application, you need clone the repo to your local computer and run the command "npm init -y" to download the appropriate files required.
@@ -15,13 +15,13 @@ Open the command interface and enter "node index.js" to get the application runn
  ![alt text](./img/mockup%20profile.png)
 
  ## Test
-To run tests for this application, you'll need to download required packages by running the command "npm i jest" you'll also need to define the "test" in package.json file as "jest". Once the neccessary files have been set up, run "npm test" to test the codes.
+To run tests for this application, you'll need to download required packages by running the command "npm i jest" you'll also need to define the "test" in package.json file as jest. Once the neccessary files have been set up, run "npm test" to test the codes.
 
  ## License
- Please refer to license in repo.
+ N/A
 
 ## Contributors
-2023 edX Boot Camp team.
+2023 EDX Bootcamp Team
 
 
 
