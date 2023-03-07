@@ -4,7 +4,7 @@
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
 }
 .card-header{
-    background-color: brown;
+    background-color: rgb(34, 31, 31);
     color: white;
 }
 .card-title{
@@ -14,7 +14,7 @@
     text-decoration: none;
 }
 .list-group-item a:hover{
-    color: red;
+    color: rgb(171, 78, 78);
 }
 .jumbotron{
     background-color: rgb(160, 136, 136);
