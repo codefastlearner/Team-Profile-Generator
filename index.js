@@ -141,7 +141,7 @@ function addEmployee() {
                 if (err) {
                     console.log(err);
                 } else {
-                    console.log(`Team profile succesfully generated! Pls check ${outputPath}`);
+                    console.log(`Team profile succesfully generated! Please check ${outputPath}`);
                 }
             });
         }
