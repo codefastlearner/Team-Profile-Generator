@@ -16,7 +16,7 @@ At the begining of the prompts, the user is asked to enter the manager details a
 
 ## Screen-Shot
 
-![alt text](./img/Screenshot%202023-03-07%20at%2023.10.17.png);
+![alt text](./img/Screenshot%202023-03-07%20at%2023.15.19.png);
 
 ## Test
 
